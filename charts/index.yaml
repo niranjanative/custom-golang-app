@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello-devops:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2022-01-29T22:35:11.249687775-06:00"
+    description: A Helm chart for Hello-devops application
+    digest: 4ea1861ef30d974e8b0acf9a51b5f3a0f8fad7d650b004f09bc342203bec24ba
+    name: hello-devops
+    type: application
+    urls:
+    - hello-devops-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-01-29T22:35:11.248824194-06:00"
